@@ -1,4 +1,6 @@
 # Text Composition
+Homework of design pattern: Strategy
+![class diagram](doc/TextComposition.png)
 
 ## Spec
 ### Requirements Statement
