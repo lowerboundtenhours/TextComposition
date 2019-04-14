@@ -92,7 +92,7 @@ You won’t receive any point if you didn’t follow the directory structure or 
 
 ## How to run
 ```
-cd src
+cd Team1
 javac ./*.java
 java Main ../tests/test_input
 ```
